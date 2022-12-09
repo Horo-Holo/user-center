@@ -77,7 +77,7 @@ declare namespace API {
     userAccount?: string;
     userPassword?: string;
     checkPassword?: string;
-    invitationCode?: string;
+    invitationCode: string;
     type?: string;
   };
 
